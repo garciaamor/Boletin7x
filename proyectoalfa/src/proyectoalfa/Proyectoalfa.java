@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class Proyectoalfa {
 
-   
+   //comentario ejercicio pull
     public static void main(String[] args) {
         float sueldo, ventas, comision, km, dietas, retencion, irpf, liquido, sFinal;
         Scanner obx= new Scanner(System.in);
