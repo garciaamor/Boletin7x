@@ -27,5 +27,6 @@ public class Proyectoalfa {
         System.out.println("el suelo final despues de retenciones es de "+sFinal+" euros");
     }
     //commit de proyecto clonado
+    //commit con proy beta clon
 }
   
