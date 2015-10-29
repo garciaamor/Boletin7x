@@ -6,7 +6,7 @@ public class ProyectoBeta {
        //proyecto Beta
        //commit inicial
        //commit con proy alfa 
-        
+       //commit con proy alfa2 
     }
     
 }
