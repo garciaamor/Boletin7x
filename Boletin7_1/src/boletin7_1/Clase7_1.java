@@ -10,7 +10,7 @@ public class Clase7_1 {
         return num1;
    }
    public static void comparar(int num1){
-        if(num1>0)
+        if(num1>=0)
             System.out.println(num1 + " e positivo");
         else 
             System.out.println(num1 + " e negativo");
